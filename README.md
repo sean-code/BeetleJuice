@@ -5,7 +5,7 @@
 </div>
 
 
-## 🛠 Built With <a name="built-with">
+## Technology
 
 </a>
 
@@ -29,7 +29,7 @@
 
 ## Live Link 
 
-- Click this [link](https://search-enginee-ceb7b44283a9.herokuapp.com/) for live view.
+- Click this [link](http://tinyurl.com/yv8f9spv) for live view.
 
 
 
